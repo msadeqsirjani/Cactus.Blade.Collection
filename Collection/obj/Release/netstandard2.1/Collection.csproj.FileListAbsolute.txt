@@ -1,0 +1,9 @@
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Collection\bin\Release\netstandard2.1\Collection.deps.json
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Collection\bin\Release\netstandard2.1\Collection.dll
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Collection\bin\Release\netstandard2.1\Collection.pdb
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Collection\obj\Release\netstandard2.1\Collection.csprojAssemblyReference.cache
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Collection\obj\Release\netstandard2.1\Collection.AssemblyInfoInputs.cache
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Collection\obj\Release\netstandard2.1\Collection.AssemblyInfo.cs
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Collection\obj\Release\netstandard2.1\Collection.csproj.CoreCompileInputs.cache
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Collection\obj\Release\netstandard2.1\Collection.dll
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Collection\obj\Release\netstandard2.1\Collection.pdb
