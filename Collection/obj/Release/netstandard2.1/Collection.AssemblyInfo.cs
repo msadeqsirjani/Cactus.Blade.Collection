@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.2.1.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.2.1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cactus")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Collection")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Cactus.Blade.Collection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.2.1.0")]
 [assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/mohammadsadeqsirjani/Cactus/tree/master/Collection")]
 [assembly: System.Resources.NeutralResourcesLanguageAttribute("C#")]
