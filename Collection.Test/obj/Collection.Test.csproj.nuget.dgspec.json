@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Collection\\Cactus.Blade.Collection\\Collection.Test\\Collection.Test.csproj": {}
+    "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Collection\\Collection.Test\\Collection.Test.csproj": {}
   },
   "projects": {
-    "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Collection\\Cactus.Blade.Collection\\Collection.Test\\Collection.Test.csproj": {
+    "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Collection\\Collection.Test\\Collection.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Collection\\Cactus.Blade.Collection\\Collection.Test\\Collection.Test.csproj",
+        "projectUniqueName": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Collection\\Collection.Test\\Collection.Test.csproj",
         "projectName": "Collection.Test",
-        "projectPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Collection\\Cactus.Blade.Collection\\Collection.Test\\Collection.Test.csproj",
+        "projectPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Collection\\Collection.Test\\Collection.Test.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Collection\\Cactus.Blade.Collection\\Collection.Test\\obj\\",
+        "outputPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Collection\\Collection.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Collection\\Cactus.Blade.Collection\\Collection\\Collection.csproj": {
-                "projectPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Collection\\Cactus.Blade.Collection\\Collection\\Collection.csproj"
+              "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Collection\\Collection\\Collection.csproj": {
+                "projectPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Collection\\Collection\\Collection.csproj"
               }
             }
           }
@@ -76,18 +76,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Collection\\Cactus.Blade.Collection\\Collection\\Collection.csproj": {
+    "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Collection\\Collection\\Collection.csproj": {
       "version": "1.2.1",
       "restore": {
-        "projectUniqueName": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Collection\\Cactus.Blade.Collection\\Collection\\Collection.csproj",
+        "projectUniqueName": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Collection\\Collection\\Collection.csproj",
         "projectName": "Cactus.Blade.Collection",
-        "projectPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Collection\\Cactus.Blade.Collection\\Collection\\Collection.csproj",
+        "projectPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Collection\\Collection\\Collection.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Collection\\Cactus.Blade.Collection\\Collection\\obj\\",
+        "outputPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Collection\\Collection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -130,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
