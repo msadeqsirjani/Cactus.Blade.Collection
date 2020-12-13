@@ -1,17 +1,70 @@
 {
   "version": 3,
   "targets": {
-    ".NETStandard,Version=v2.1": {}
+    ".NETStandard,Version=v2.1": {
+      "Cactus.Blade.Core/1.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Cactus.Blade.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Cactus.Blade.Core.dll": {}
+        }
+      },
+      "Cactus.Blade.Guard/1.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Cactus.Blade.Core": "1.2.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/Cactus.Blade.Guard.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Cactus.Blade.Guard.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Cactus.Blade.Core/1.2.0": {
+      "sha512": "RbseR0aEYxt8H5H/VTd+w0X6ViJWhvIxidg/+bfmF8asWRBiArK3vvbqnlfMpmhJKnuQA16jYRa9owU8K8a77g==",
+      "type": "package",
+      "path": "cactus.blade.core/1.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "cactus.blade.core.1.2.0.nupkg.sha512",
+        "cactus.blade.core.nuspec",
+        "cactus.png",
+        "lib/netstandard2.1/Cactus.Blade.Core.dll"
+      ]
+    },
+    "Cactus.Blade.Guard/1.2.0": {
+      "sha512": "86nmSIYQLNGXmkG8q2NtZKnKr9YAd9U4LwwQweUqZWTMbuP5NnslC6drYZfypXgTB04G3Os2AOU/pqa8jOPKJw==",
+      "type": "package",
+      "path": "cactus.blade.guard/1.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "cactus.blade.guard.1.2.0.nupkg.sha512",
+        "cactus.blade.guard.nuspec",
+        "cactus.png",
+        "lib/netstandard2.1/Cactus.Blade.Guard.dll"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETStandard,Version=v2.1": []
+    ".NETStandard,Version=v2.1": [
+      "Cactus.Blade.Guard >= 1.2.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\pc\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "restore": {
       "projectUniqueName": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Collection\\Collection\\Collection.csproj",
       "projectName": "Cactus.Blade.Collection",
@@ -45,6 +98,12 @@
     "frameworks": {
       "netstandard2.1": {
         "targetAlias": "netstandard2.1",
+        "dependencies": {
+          "Cactus.Blade.Guard": {
+            "target": "Package",
+            "version": "[1.2.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
