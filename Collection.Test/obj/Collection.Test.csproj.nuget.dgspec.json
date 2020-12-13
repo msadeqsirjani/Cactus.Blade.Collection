@@ -81,7 +81,7 @@
       }
     },
     "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Collection\\Collection\\Collection.csproj": {
-      "version": "1.2.1",
+      "version": "1.2.2",
       "restore": {
         "projectUniqueName": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Collection\\Collection\\Collection.csproj",
         "projectName": "Cactus.Blade.Collection",
@@ -115,6 +115,12 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Cactus.Blade.Guard": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
