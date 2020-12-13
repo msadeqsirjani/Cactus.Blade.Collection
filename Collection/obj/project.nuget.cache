@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yhhe6Cjei7P2CV/SIE0NdsIgFa/SwqIL84h+SB6Zlb14bMA2vbpq43+zuMylsDx5CKtSwQHv4H0Lg5+jh6/7yw==",
+  "dgSpecHash": "TiVhHujy1mrqlZoRELwo4X+Z5GhaoZGgeFAor7WPyavmzg5XEPDZZoZkhL8Vbvle3e2ODht2KD4OL5EVRDpCuw==",
   "success": true,
   "projectFilePath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Collection\\Collection\\Collection.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\cactus.blade.core\\1.2.0\\cactus.blade.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\cactus.blade.guard\\1.2.0\\cactus.blade.guard.1.2.0.nupkg.sha512"
+  ],
   "logs": []
 }
