@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cXyMkWRTHlLKtwsp7YjOnK4PJR7TpTslETmy4BOrX9bQLt1yz4ELmxBPw9IWC7pzDYLdJbpmtTr4ujxw2ZS+UQ==",
+  "dgSpecHash": "Qeho6pz9YwLulKUK47YXjB7qVgf4HWrwKEmIGtN2ezecDWw6k0hqWw2lBoFEu/ilhYdbxM6OsypeEW1XVRpM6Q==",
   "success": true,
   "projectFilePath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Collection\\Collection.Test\\Collection.Test.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\cactus.blade.core\\1.2.0\\cactus.blade.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\cactus.blade.guard\\1.2.0\\cactus.blade.guard.1.2.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
