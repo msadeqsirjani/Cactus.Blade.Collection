@@ -19,6 +19,7 @@
     <RootNamespace>Cactus.Blade.Collection</RootNamespace>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <RepositoryType>https://github.com/mohammadsadeqsirjani/Cactus/tree/master/Collection</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
